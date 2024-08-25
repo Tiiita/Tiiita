@@ -6,3 +6,4 @@
 - ⚡ Fun fact: I play the electric guitar for over 11 years now :D
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiiita&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
