@@ -5,6 +5,8 @@
 - 📫 How to reach me: Add me on discord: tiiita
 - ⚡ Fun fact: I play the electric guitar for over 11 years now :D
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiiita&layout=compact&theme=dark)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiiita&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)
+
