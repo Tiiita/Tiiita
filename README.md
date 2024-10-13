@@ -9,4 +9,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiiita&show_icons=true&theme=dark)
 
+![image](https://github.com/user-attachments/assets/501685f8-4c4c-4d89-a272-64478359970c)
 
