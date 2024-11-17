@@ -1,7 +1,7 @@
 ### HeyHo 👋
 
-- 🔭 Currently working on some cheaty private java projects.
-- 🌱 I startet learning Rust and want to make rust projects in the future
+- 🔭 Currently working on some small cool projects mainly programmed in rust
+- 🌱 I want to get into Rust at a really high level
 - 📫 How to reach me: Add me on discord: tiiita
 - ⚡ Fun fact: I play the electric guitar for over 11 years now :D
 
