@@ -1,7 +1,7 @@
 ### HeyHo 👋
 
-- 🔭 Currently working on some small cool projects mainly programmed in rust
-- 🌱 I want to get into Rust at a really high level
+- 🔭 Currently getting into malware development (ethical) & cyber security 
+- 🌱 I mainly use rust, learning winapi and c
 - 📫 How to reach me: Add me on discord: tiiita
 - ⚡ Fun fact: I play the electric guitar for over 11 years now :D
 
