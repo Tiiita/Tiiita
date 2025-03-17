@@ -1,7 +1,7 @@
 ### HeyHo 👋
 
 - 🔭 Currently getting into malware development (ethical) & cyber security 
-- 🌱 I mainly use rust, learning winapi and c
+- 🌱 I used to code in java a lot but now i mainly rust, learning winapi and c
 - 📫 How to reach me: Add me on discord: tiiita
 - ⚡ Fun fact: I play the electric guitar for over 11 years now :D
 
